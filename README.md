@@ -11,7 +11,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://imgflip.com/gif/azj6rv"  />
+  <img data-importer="image" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNueGU4c2JlcjBlbHo1ZXozYTVsNDMzdmlqMGExdW4xdW8xd3c1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/toCFkdazKuESTCKrZl/giphy.gif"  />
 </div>
 
 ###
