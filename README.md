@@ -11,7 +11,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="281" src="https://cdn.jumpshare.com/preview/-3_4L-mZbGU5Q27FL3NFjAej_RqSQ22TVgNT9J-dkIjurUJyCUVS_feXp8Bye2HRxRBSvD-oe-5HQwVCTA3Opv2SB0l-30Lg_PCZRwLNYEY-Svq_lROLUeLVqwgK-Ztn"  />
+  <img data-importer="image" height="280" src="https://cdn.jumpshare.com/preview/WKKL1T_lzx-sOEfTo4Pq2tZiTee9nolgAHf91nvBeg5pJFn_75pweaYm1A3pahf2-_-lXzEacm5VEBA3_wF7bFI6jUY1ZANonLtwA4umulE-Svq_lROLUeLVqwgK-Ztn"  />
 </div>
 
 ###
