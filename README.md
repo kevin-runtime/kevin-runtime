@@ -19,5 +19,4 @@
 ###
 
 <p data-importer="text" align="left">I’m an Information Technology student at Politeknik Negeri Madiun who enjoys exploring code, 3D creation. I’m always learning, experimenting, and turning ideas into creative digital projects.</p>
-https://github.com/user-attachments/assets/4a8dae1c-0433-4b0a-ab7b-792e02b75a75
 ###
