@@ -19,6 +19,10 @@
 <p data-importer="text" align="left">I’m an Information Technology student at Politeknik Negeri Madiun who enjoys exploring code, 3D creation. I’m always learning, experimenting, and turning ideas into creative digital projects.</p>
 
 ###
+<img width="950" height="237" alt="gif poltelpoltek 2" src="https://github.com/user-attachments/assets/f9c15a2b-d20c-486d-bf4a-10f77ced7d98" />
+
+
+
 
 
 
